@@ -5,7 +5,7 @@ This is a procedure in running the application
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all the requirements.
+Use the Npm Package manager to install all the requirements.
 
 ```bash
 npm install
